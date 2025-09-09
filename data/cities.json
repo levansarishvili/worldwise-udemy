@@ -37,135 +37,99 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "e238",
-      "cityName": "Lanchkhuti",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T13:47:56.623Z",
-      "notes": "very beautiful place",
-      "position": {
-        "lat": "42.087325175607134",
-        "lng": "42.03551320308048"
-      }
-    },
-    {
-      "id": "f6d2",
-      "cityName": "Adigeni",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T13:52:25.778Z",
-      "notes": "My place",
-      "position": {
-        "lat": "41.6739615286351",
-        "lng": "42.77185496131981"
-      }
-    },
-    {
-      "id": "267e",
-      "cityName": "Tqibuli",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T13:53:00.427Z",
-      "notes": "123",
-      "position": {
-        "lat": "42.297842108788615",
-        "lng": "42.91931150479584"
-      }
-    },
-    {
-      "id": "e08c",
-      "cityName": "Khashuri",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T13:53:31.607Z",
-      "notes": "123",
-      "position": {
-        "lat": "42.01486537784413",
-        "lng": "43.64619983941918"
-      }
-    },
-    {
-      "id": "7583",
-      "cityName": "Akhaltsikhe",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T13:58:54.357Z",
-      "notes": "",
-      "position": {
-        "lat": "41.7264198634728",
-        "lng": "43.04520549717331"
-      }
-    },
-    {
-      "id": "4f15",
+      "id": "233c",
       "cityName": "Gori",
       "country": "Georgia",
       "emoji": "🇬🇪",
-      "date": "2025-09-09T13:59:31.966Z",
+      "date": "2025-09-09T17:51:48.938Z",
       "notes": "",
       "position": {
-        "lat": "42.000648109744965",
-        "lng": "44.20553765257134"
+        "lat": "41.98507028052221",
+        "lng": "44.13320465552713"
       }
     },
     {
-      "id": "9253",
-      "cityName": "Borjomi",
+      "id": "ca4d",
+      "cityName": "Khashuri",
       "country": "Georgia",
       "emoji": "🇬🇪",
-      "date": "2025-09-09T13:59:31.966Z",
+      "date": "2025-09-09T17:51:54.613Z",
       "notes": "",
       "position": {
-        "lat": "41.75808859777494",
-        "lng": "43.54305491549749"
+        "lat": "41.995248063514374",
+        "lng": "43.596911248929274"
       }
     },
     {
-      "id": "1eff",
+      "id": "8679",
+      "cityName": "Adigeni",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-09T17:52:10.229Z",
+      "notes": "",
+      "position": {
+        "lat": "41.674165051839694",
+        "lng": "42.77400385126803"
+      }
+    },
+    {
+      "id": "2c58",
+      "cityName": "Telavi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-09T17:53:00.982Z",
+      "notes": "",
+      "position": {
+        "lat": "41.91837565020863",
+        "lng": "45.47052383422852"
+      }
+    },
+    {
+      "id": "f405",
+      "cityName": "Kaspi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-09T17:53:06.147Z",
+      "notes": "",
+      "position": {
+        "lat": "41.93107753177378",
+        "lng": "44.45068359375001"
+      }
+    },
+    {
+      "id": "fbdc",
       "cityName": "Tsalka",
       "country": "Georgia",
       "emoji": "🇬🇪",
-      "date": "2025-09-09T14:01:19.838Z",
-      "notes": "wwwwwwww",
+      "date": "2025-09-09T17:53:10.091Z",
+      "notes": "",
       "position": {
-        "lat": "41.6041981095326",
-        "lng": "44.10368638199896"
+        "lat": "41.60781350084028",
+        "lng": "44.13276672363282"
       }
     },
     {
-      "id": "b6b1",
-      "cityName": "Tsalka",
+      "id": "b388",
+      "cityName": "Adigeni",
       "country": "Georgia",
       "emoji": "🇬🇪",
-      "date": "2025-09-09T14:01:45.370Z",
+      "date": "2025-09-09T17:53:15.027Z",
       "notes": "",
       "position": {
-        "lat": "41.722504370228606",
-        "lng": "44.19367620137924"
+        "lat": "41.76013298251193",
+        "lng": "42.879638671875"
       }
     },
     {
-      "id": "ea15",
-      "cityName": "Prigorodnyy Rayon",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2025-09-09T14:02:57.916Z",
+      "id": "a9a0",
+      "cityName": "Akhaltsikhe",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-09T17:53:19.399Z",
       "notes": "",
       "position": {
-        "lat": "42.71886538637211",
-        "lng": "44.45199403444536"
+        "lat": "41.639646267523",
+        "lng": "42.98126220703126"
       }
     }
   ]
