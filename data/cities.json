@@ -37,78 +37,6 @@
       "id": "17806751"
     },
     {
-      "id": "233c",
-      "cityName": "Gori",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T17:51:48.938Z",
-      "notes": "",
-      "position": {
-        "lat": "41.98507028052221",
-        "lng": "44.13320465552713"
-      }
-    },
-    {
-      "id": "ca4d",
-      "cityName": "Khashuri",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T17:51:54.613Z",
-      "notes": "",
-      "position": {
-        "lat": "41.995248063514374",
-        "lng": "43.596911248929274"
-      }
-    },
-    {
-      "id": "8679",
-      "cityName": "Adigeni",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T17:52:10.229Z",
-      "notes": "",
-      "position": {
-        "lat": "41.674165051839694",
-        "lng": "42.77400385126803"
-      }
-    },
-    {
-      "id": "2c58",
-      "cityName": "Telavi",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T17:53:00.982Z",
-      "notes": "",
-      "position": {
-        "lat": "41.91837565020863",
-        "lng": "45.47052383422852"
-      }
-    },
-    {
-      "id": "f405",
-      "cityName": "Kaspi",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T17:53:06.147Z",
-      "notes": "",
-      "position": {
-        "lat": "41.93107753177378",
-        "lng": "44.45068359375001"
-      }
-    },
-    {
-      "id": "fbdc",
-      "cityName": "Tsalka",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-09T17:53:10.091Z",
-      "notes": "",
-      "position": {
-        "lat": "41.60781350084028",
-        "lng": "44.13276672363282"
-      }
-    },
-    {
       "id": "b388",
       "cityName": "Adigeni",
       "country": "Georgia",
@@ -121,15 +49,123 @@
       }
     },
     {
-      "id": "a9a0",
+      "id": "4ddf",
       "cityName": "Akhaltsikhe",
       "country": "Georgia",
       "emoji": "🇬🇪",
-      "date": "2025-09-09T17:53:19.399Z",
+      "date": "2025-09-10T05:44:05.708Z",
       "notes": "",
       "position": {
-        "lat": "41.639646267523",
-        "lng": "42.98126220703126"
+        "lat": "41.638134849844036",
+        "lng": "42.97768034585863"
+      }
+    },
+    {
+      "id": "f811",
+      "cityName": "Borjomi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-10T05:44:26.643Z",
+      "notes": "",
+      "position": {
+        "lat": "41.8471190970013",
+        "lng": "43.42071533203125"
+      }
+    },
+    {
+      "id": "f096",
+      "cityName": "Khashuri",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-10T05:44:31.164Z",
+      "notes": "",
+      "position": {
+        "lat": "42.005490446313026",
+        "lng": "43.63632202148438"
+      }
+    },
+    {
+      "id": "c065",
+      "cityName": "Borjomi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-10T05:44:36.279Z",
+      "notes": "",
+      "position": {
+        "lat": "41.75033632270562",
+        "lng": "43.52508544921875"
+      }
+    },
+    {
+      "id": "7d85",
+      "cityName": "Kobuleti",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-10T05:44:58.126Z",
+      "notes": "",
+      "position": {
+        "lat": "41.71676147229659",
+        "lng": "41.733627319335945"
+      }
+    },
+    {
+      "id": "ca23",
+      "cityName": "Khobi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-10T05:45:04.022Z",
+      "notes": "",
+      "position": {
+        "lat": "42.167507724939746",
+        "lng": "41.70410156250001"
+      }
+    },
+    {
+      "id": "ef09",
+      "cityName": "Kutaisi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-10T06:59:37.189Z",
+      "notes": "",
+      "position": {
+        "lat": "42.270717159730744",
+        "lng": "42.706902371847285"
+      }
+    },
+    {
+      "id": "6dc0",
+      "cityName": "Telavi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-10T07:05:30.252Z",
+      "notes": "qwe",
+      "position": {
+        "lat": "41.93122592743338",
+        "lng": "45.644400304599735"
+      }
+    },
+    {
+      "id": "73f7",
+      "cityName": "Dusheti",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-10T07:05:40.004Z",
+      "notes": "",
+      "position": {
+        "lat": "42.526850393077744",
+        "lng": "44.79430877094291"
+      }
+    },
+    {
+      "id": "ae82",
+      "cityName": "Gori",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2025-09-10T07:05:49.089Z",
+      "notes": "",
+      "position": {
+        "lat": "41.99655823405789",
+        "lng": "44.20412057831788"
       }
     }
   ]
