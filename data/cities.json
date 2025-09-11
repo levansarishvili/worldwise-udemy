@@ -61,18 +61,6 @@
       }
     },
     {
-      "id": "f811",
-      "cityName": "Borjomi",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-10T05:44:26.643Z",
-      "notes": "",
-      "position": {
-        "lat": "41.8471190970013",
-        "lng": "43.42071533203125"
-      }
-    },
-    {
       "id": "f096",
       "cityName": "Khashuri",
       "country": "Georgia",
@@ -82,90 +70,6 @@
       "position": {
         "lat": "42.005490446313026",
         "lng": "43.63632202148438"
-      }
-    },
-    {
-      "id": "c065",
-      "cityName": "Borjomi",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-10T05:44:36.279Z",
-      "notes": "",
-      "position": {
-        "lat": "41.75033632270562",
-        "lng": "43.52508544921875"
-      }
-    },
-    {
-      "id": "7d85",
-      "cityName": "Kobuleti",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-10T05:44:58.126Z",
-      "notes": "",
-      "position": {
-        "lat": "41.71676147229659",
-        "lng": "41.733627319335945"
-      }
-    },
-    {
-      "id": "ca23",
-      "cityName": "Khobi",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-10T05:45:04.022Z",
-      "notes": "",
-      "position": {
-        "lat": "42.167507724939746",
-        "lng": "41.70410156250001"
-      }
-    },
-    {
-      "id": "ef09",
-      "cityName": "Kutaisi",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-10T06:59:37.189Z",
-      "notes": "",
-      "position": {
-        "lat": "42.270717159730744",
-        "lng": "42.706902371847285"
-      }
-    },
-    {
-      "id": "6dc0",
-      "cityName": "Telavi",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-10T07:05:30.252Z",
-      "notes": "qwe",
-      "position": {
-        "lat": "41.93122592743338",
-        "lng": "45.644400304599735"
-      }
-    },
-    {
-      "id": "73f7",
-      "cityName": "Dusheti",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-10T07:05:40.004Z",
-      "notes": "",
-      "position": {
-        "lat": "42.526850393077744",
-        "lng": "44.79430877094291"
-      }
-    },
-    {
-      "id": "ae82",
-      "cityName": "Gori",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2025-09-10T07:05:49.089Z",
-      "notes": "",
-      "position": {
-        "lat": "41.99655823405789",
-        "lng": "44.20412057831788"
       }
     }
   ]
